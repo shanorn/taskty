@@ -1,0 +1,11 @@
+{
+  "name": "taskty",
+  "version": "1.0.0",
+  "description": "Proyecto Taskty con NODE y MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shanorn",
+  "license": "ISC"
+}
